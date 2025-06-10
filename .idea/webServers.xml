@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fdf3de7d-4016-4ab4-89a1-b9cb08137200" name="Ruche">
+        <fileTransfer accessType="SFTP" host="caozh@ruche.mesocentre.universite-paris-saclay.fr" port="22" sshConfigId="45b312f4-35d8-4413-ae26-2e2f2b1d2bd7" sshConfig="caozh@caozh@ruche.mesocentre.universite-paris-saclay.fr:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

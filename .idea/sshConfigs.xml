@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="caozh@ruche.mesocentre.universite-paris-saclay.fr" id="45b312f4-35d8-4413-ae26-2e2f2b1d2bd7" port="22" nameFormat="DESCRIPTIVE" username="caozh" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
