@@ -1,3 +1,7 @@
+models--Qwen--Qwen2.5-Omni-3B
+answer.txt
+demo_infer.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
